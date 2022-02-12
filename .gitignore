@@ -1,0 +1,8 @@
+*.csv
+.idea/
+\.idea\
+.idea/inspectionProfiles/
+.idea/itcs.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
